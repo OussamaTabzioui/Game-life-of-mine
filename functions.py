@@ -50,6 +50,8 @@ def addToArray(array, cor_x, cor_y):
 def removeFromArray(array, cor_x, cor_y):
     array[cor_y][cor_x] = 0
 
+
+
 def add_glider(array, x, y):
     pattern = [(0, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
     for dx, dy in pattern:

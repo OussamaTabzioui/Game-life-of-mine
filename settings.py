@@ -1,5 +1,5 @@
 # Define width, height and resolution
-width, height = 1280, 720
+width, height = 720, 720
 RES = 20  # Resolution, 10 per row
 
 # Define some colors
