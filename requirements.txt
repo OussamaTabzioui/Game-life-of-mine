@@ -1,0 +1,2 @@
+pygame==2.1.2  # Adjust the version number as needed
+numpy==1.24.2  # Add other dependencies if necessary

@@ -3,7 +3,7 @@ import sys
 import time
 from functions import *
 from settings import *
-import numpy as np
+
 
 # Initialize Pygame
 pygame.init()
